@@ -1,0 +1,50 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#titles {
+    margin: 40px auto;
+    clear: right;
+    width: 100%;
+}
+
+#titles span {
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    font-size: 22px;
+}
+
+#images {
+    margin-left: 50px;
+    width: 100%;
+}
+
+#images div {
+    float: left;
+}
+
+#original{
+    max-height: 400px;
+    max-width: 400px;
+}
+
+#copied{
+    max-height: 400px;
+    max-width: 400px;
+}
+
+#random{
+    height: 550px;
+    width: 501px;
+}
+
+#about {
+    width: 90%;
+    margin-left: 50px;
+}
+
+
+
+

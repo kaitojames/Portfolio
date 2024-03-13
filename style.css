@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: auto;
+}
+
+#picbox {
+    background-color: #4F6D7A;
+}
+
+#fortnite {
+    background-color: #C0D6DF;
+    color: #353238;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#valorant {
+    background-color: #DBE9EE;
+    color: #353238;
+    height: 150px;
+}
+
+#box-c {
+    background-color: #4A6FA5;
+    color: #E8E9ED;
+    height: 150px;
+}
+
+#box-d {
+    background-color: #166088;
+    color: #E8E9ED;
+    height: 150px;
+}
+
+#box-e {
+    background-color: #1C3144;
+    color: #E8E9ED;
+    height: 150px;
+}
+
+#box-f {
+    background-color: #6A5B6E;
+    color: #E8E9ED;
+    height: 150px;
+}
+
+#box-g {
+    background-color: #030027;
+    color: #E8E9ED;
+    height: 200px;
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+
+.test {
+    background-color:#4B5043;
+    color: white;
+    height: 80px;
+    font-size: 50px;
+    
+}
+
+
